@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+    background-color: crimson;
+    font-style: italic;
+}
+p
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 17px;
+}
+h2
+{
+    text-shadow: 2px 2px cyan ;
+}
